@@ -1,56 +1,56 @@
 {
   "greeting": {
-    "title": "장세모 \uD83D\uDC8D 황네모\n결혼합니다!",
+    "title": "서광덕 \uD83D\uDC8D 박유민\n결혼합니다!",
     "message": "저희 결혼합니다.\n\n서로에게 알맞은 온도로 따뜻하던 우리.\n부부로서 첫걸음을 내딛는 그 설렘의 순간에\n소중한 분들을 초대합니다.",
     "host": {
       "groom": {
-        "name": "세모",
-        "relation": "아들",
+        "name": "광덕",
+        "relation": "차남",
         "parents": [
           {
             "relation": "아버지",
-            "name": "장아빠"
+            "name": "서동율"
           },
           {
             "relation": "어머니",
-            "name": "이엄마"
+            "name": "고정숙"
           }
         ]
       },
       "bride": {
-        "name": "네모",
-        "relation": "딸",
+        "name": "유민",
+        "relation": "장녀",
         "parents": [
           {
             "relation": "아버지",
-            "name": "황아빠"
+            "name": "박진홍"
           },
           {
             "relation": "어머니",
-            "name": "이엄마"
+            "name": "이연우"
           }
         ]
       }
     },
-    "eventDetail": "2024년 2월 17일 (토) 14:00\n아펠가모 공덕 라로브홀"
+    "eventDetail": "2025년 4월 27일 (일) 13:30\n드메르 웨딩홀 2층 CN홀"
   },
   "hostInfo": [
     {
       "host": "신랑측",
       "accountInfo": [
         {
-          "name": "장세모",
+          "name": "서광덕",
           "relation": "신랑",
-          "bank": "카카오뱅크",
-          "account": "1234-56-789012",
+          "bank": "국민은행",
+          "account": "612102-04-005910",
           "kakaopayAccount": "",
           "tossAccount": ""
         },
         {
-          "name": "장아빠",
+          "name": "서동율",
           "relation": "아버지",
           "bank": "농협",
-          "account": "123-45-678901"
+          "account": "010-3610-5812-09"
         },
         {
           "name": "이엄마",
